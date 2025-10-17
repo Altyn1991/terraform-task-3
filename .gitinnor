@@ -1,4 +1,0 @@
-# .gitignor
-.terraform/
-*.tfstat.buckup
-*.tfstat
